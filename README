@@ -1,0 +1,26 @@
+basic smart contract dev starter kit
+
+frontend+smartcontract with erc20 example boilerplate included, and code base/tooling set up with:
+
+Solidity smart contracts
+truffle
+openzeppelin
+
+React
+redux
+drizzle
+custom contract UI autogenerator
+
+and some other things
+
+Usage:
+Normal npm stuff
+See package.json for commands to deploy contracts to local blockchain with truffle and run react frontend
+
+Make sure your Metamask has the first account of your truffle deployment loaded so you can interact with the contract as the owner.
+
+Recommended Suggestions for New Devs:
+ - Read docs for all the above tools/libraries
+ - Setup truffle and ganache and metamask
+ - Deploy contract to local Ganache
+ - Run react app and try interact with contract via Metamask
