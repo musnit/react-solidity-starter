@@ -2,7 +2,7 @@
   "scripts": {
     "m": "truffle migrate --reset --verbose",
     "g": "node ganache.js",
-    "start:dev": "webpack-dev-server"
+    "dev": "webpack-dev-server"
   },
   "dependencies": {
     "babel-cli": "^6.26.0",

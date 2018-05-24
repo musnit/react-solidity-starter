@@ -11,7 +11,7 @@ class Home extends Component {
             <h2>Active Account</h2>
             <AccountData accountIndex="0" units="ether" precision="3" />
           </div>
-          <FullContract contract="SupplyChain" />
+          <FullContract contract="ExampleContract" />
         </div>
       </div>
     )

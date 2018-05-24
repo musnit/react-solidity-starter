@@ -1,4 +1,4 @@
-import SupplyChain from '../build/contracts/SupplyChain.json'
+import ExampleContract from '../build/contracts/ExampleContract.json'
 
 const drizzleOptions = {
   web3: {
@@ -9,7 +9,7 @@ const drizzleOptions = {
     }
   },
   contracts: [
-    SupplyChain,
+    ExampleContract,
   ],
   events: {
   },
